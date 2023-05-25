@@ -1,7 +1,7 @@
 # Install
 
 ```bash
-conda install compilers make cmake qhull pybind11
+conda install compilers make cmake qhull pybind11 -c conda-forge
 python setup.py install
 ```
 
