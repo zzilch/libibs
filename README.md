@@ -1,7 +1,7 @@
 # Install
 
 ```bash
-mamba install compilers make cmake qhull pybind11
+conda install compilers make cmake qhull pybind11
 python setup.py install
 ```
 
